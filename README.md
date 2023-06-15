@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on a custom programmign language
+Working on a custom programming language
 
 
 # 💻 Tech Stack:

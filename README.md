@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a German Developer. I love it to learn New Technologys or Programing Languages. 
 
-#Newbie Experience:
+# Newbie Experience:
 - C++ / C
 - Go
 - C#
@@ -10,7 +10,7 @@ I'm a German Developer. I love it to learn New Technologys or Programing Languag
 - Javascript / Typescript
 - Kotlin
 
-#Extended Experience:
+# Extended Experience:
 - Java 
 - MongoDB
 - Arduino

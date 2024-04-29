@@ -9,6 +9,7 @@ I'm a German Developer. I love it to learn New Technologys or Programing Languag
 - MySQL
 - Javascript / Typescript
 - Kotlin
+
 #Extended Experience:
 - Java 
 - MongoDB

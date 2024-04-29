@@ -1,5 +1,18 @@
 # 💫 About Me:
-Working on a custom programming language
+I'm a German Developer. I love it to learn New Technologys or Programing Languages. 
+
+Newbie Experience:
+- C++ / C
+- Go
+- C#
+- Python
+- MySQL
+- Javascript / Typescript
+- Kotlin
+Extended Experience:
+- Java 
+- MongoDB
+- Arduino
 
 
 # 💻 Tech Stack:
